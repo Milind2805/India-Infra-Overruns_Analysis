@@ -4,7 +4,7 @@ Analysis of 1,720 Indian central government infrastructure projects
 (₹150 Cr+) using data extracted from the Ministry of Statistics and
 Programme Implementation's (MoSPI) Flash Report, January 2025.
 
-[Dashboard]("D:\Infra_Overruns_Analysis\dashboard\infra_overruns_project_powerBI.pbix") | Full .pbix file in `/dashboard`
+[Dashboard](infra_overruns_project_powerBI.pbix) | Full .pbix file above
 
 ---
 
