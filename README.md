@@ -8,7 +8,7 @@ Programme Implementation's (MoSPI) Flash Report, January 2025.
 
 ---
 
-## Pipeline# India-Infra-Overruns_Analysis
+## Pipeline India-Infra-Overruns_Analysis
 
 PDF (MoSPI Flash Report) → Python extraction (pdfplumber) →
 Cleaning & parsing (pandas) → SQLite (analysis) → Power BI (dashboard)
